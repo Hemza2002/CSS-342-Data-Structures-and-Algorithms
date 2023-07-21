@@ -1,0 +1,36 @@
+Adding book UWB: 1
+Adding book Don Quixote: 1
+Adding book In Search of Lost Times: 1
+Adding book Ulysses: 1
+Adding book Test1: 1
+Adding book Test2: 1
+Adding book Test3: 1
+Adding duplicate book UWB: 0
+Adding duplicate book Test1: 0
+Listing all books: 
+UWB
+Don Quixote
+In Search of Lost Times
+Ulysses
+Test1
+Test2
+Test3
+Checking if book UWB is in the library: 1
+Checking if book The Odyssey is in the library: 0
+Checking if book Test2 is in the library: 1
+Removing book UWB: 1
+Removing book The Odyssey: 0
+Removing duplicate book UWB: 0
+Removing duplicate book Test3: 1
+Listing all books after removing some: 
+Test2
+Don Quixote
+In Search of Lost Times
+Ulysses
+Test1
+Library books: 
+Test2
+Don Quixote
+In Search of Lost Times
+Ulysses
+Test1
